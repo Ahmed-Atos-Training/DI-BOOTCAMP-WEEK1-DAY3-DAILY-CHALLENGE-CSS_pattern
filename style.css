@@ -6,20 +6,20 @@
     
 
 }
-.left_column{
+.first{
     display:flex;
     flex-direction:column;
     row-gap: 1.5em;
 
 }
 
-.right_column{
+.third{
     
     display:flex;
     flex-direction: column;
     row-gap: 1.5em;
 }
-.middle_line{
+.second{
     display:flex;
    align-items:center;  
    column-gap:6em;
